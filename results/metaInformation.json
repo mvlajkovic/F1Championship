@@ -1,0 +1,18 @@
+{
+  "total": 0,
+  "tools inspection": {
+    "Code Inspection": 0
+  },
+  "attributes": {
+    "vcs": {
+      "sarifIdea": {
+        "repositoryUri": "https://github.com/mvlajkovic/F1Championship",
+        "revisionId": "a8d52dc14b89ddc180103fc6085f95520e8a54c3",
+        "branch": "master"
+      }
+    },
+    "deviceId": "200820300000000-1b7c-c0ef-1f98-999dc941c79f",
+    "jobUrl": "https://github.com/mvlajkovic/F1Championship/actions/runs/2921798774",
+    "repoUrl": "https://github.com/mvlajkovic/F1Championship"
+  }
+}
